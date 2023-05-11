@@ -18,9 +18,9 @@ public class Mahasiswa {
         String input;
         Mahasiswa data;
 
-        mhs.put("1", new Mahasiswa("Dimaa", "3H", "Struktur Data", 2020000));
-        mhs.put("2", new Mahasiswa("Sepri", "3B", "RPL", 2020012));
-        mhs.put("3", new Mahasiswa("Abdi", "3A", "AIK", 2020017));
+        mhs.put("1", new Mahasiswa("Dimaa", "3H", "Struktur Data", 2021003));
+        mhs.put("2", new Mahasiswa("Sepri", "3B", "Basis Data", 2021005));
+        mhs.put("3", new Mahasiswa("Abdi", "3A", "Sistem Operasi", 2021042));
 
         System.out.print("Masukkan ID: ");
         input = in.nextLine();
